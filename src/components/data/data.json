@@ -1,0 +1,32 @@
+[
+    {
+        "id": 1,
+        "name": "Gia Cat",
+        "phone": 12345,
+        "permission": 1
+    },
+    {
+        "id": 2,
+        "name": "Nhat Han",
+        "phone": 12345,
+        "permission": 1
+    },
+    {
+        "id": 3,
+        "name": "Quoc Cuong",
+        "phone": 12345,
+        "permission": 2
+    },
+    {
+        "id": 4,
+        "name": "Phuong Linh",
+        "phone": 12345,
+        "permission": 3
+    },
+    {
+        "id": 5,
+        "name": "TRAN Cat",
+        "phone": 12345,
+        "permission": 1
+    }
+]
